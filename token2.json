@@ -1,0 +1,50 @@
+{
+  "name": "Equilibre Token List",
+  "logoURI": "https://github.com/equilibre-finance.png",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    }
+  },
+  "timestamp": "2022-10-04T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 2222,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "chainId": 2222,
+      "name": "Vara",
+      "symbol": "VARA",
+      "address": "0x6C2A54580666D69CF904a82D8180F198C03ece67",
+      "decimals": 18,
+      "logoURI": "https://github.com/equilibre-finance.png"
+    },
+    {
+      "chainId": 2222,
+      "name": "Wrapped KAVA",
+      "symbol": "wKAVA",
+      "address": "0xc86c7C0eFbd6A49B35E8714C5f59D99De09A225b",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/9761/small/kava.png?1663638871"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
